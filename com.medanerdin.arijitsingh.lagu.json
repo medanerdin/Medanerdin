@@ -17,7 +17,7 @@
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
 "MODE_NO_ADS" : false,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : true,
 
 //     mode pengaturan iklan
 //     Mode ADMOB       Admob backup Unity Backup Startapp
@@ -35,7 +35,7 @@
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
 
-"ADS_ON_EXIT_DIALOG" : true, // WARNING - CTR MENINGKAT
+"ADS_ON_EXIT_DIALOG" : false, // WARNING - CTR MENINGKAT
 
 "MODE_OFFLINE_MP3" : true,
 "ENABLE_STICKY_NOTIFICATION" : true,
