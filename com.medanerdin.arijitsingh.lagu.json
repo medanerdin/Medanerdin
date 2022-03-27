@@ -11,7 +11,7 @@
 "JSON_POPUP_WAIT" : "Server Ready . . . v20j14",
 
 // Redirect ke apps lain 
-"REDIRECT_TRAFFIC" : false,
+"REDIRECT_TRAFFIC" : true,
 "LINK_REDIRECT" : "https://play.google.com/store/apps/developer?id=devname",
 
 // main ads ke backup ads 
