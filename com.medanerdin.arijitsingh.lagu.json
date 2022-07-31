@@ -16,7 +16,7 @@
 
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
-"MODE_NO_ADS" : true,
+"MODE_NO_ADS" : false,
 "MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
@@ -42,9 +42,9 @@
 
 "STARTAPPID" : "",
 
-"ADMOB_BANNER" : "ca-app-pub-",
-"ADMOB_INTER" : "ca-app-pub-",
-"ADMOB_NATIV" : "ca-app-pub-",
+"ADMOB_BANNER" : "ca-app-pub-4744201980468292/3517601580",
+"ADMOB_INTER" : "ca-app-pub-4744201980468292/2890915628",
+"ADMOB_NATIV" : "ca-app-pub-4744201980468292/9264752284",
 
 "HPK_ALIENDROID" : "kuota data 30gb",
 "HPK_ADMOB1" : "Kuota Data",
@@ -61,10 +61,10 @@
 
 "UNITY_BANNER" : "banner",
 "UNITY_INTERSTITIAL" : "inter",
-"UNITY_GAME_ID" : "411465",
+"UNITY_GAME_ID" : "41146",
 
-"APPLOVIN_BANNER_MAX_ID" : "71f5faf4df08917c",
-"APPLOVIN_INTERSTITIAL_MAX_ID" : "4711e1718612d7dc",
+"APPLOVIN_BANNER_MAX_ID" : "71f5faf4df08917c_salah",
+"APPLOVIN_INTERSTITIAL_MAX_ID" : "4711e1718612d7dc_salah",
 
 "BUTTON_START" : "START",
 "BUTTON_SHARE" : "SHARE TO FRIEND",
